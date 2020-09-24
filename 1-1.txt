@@ -1,0 +1,8 @@
+1. The terminal is the command line interface or console where you can write text commands to use 
+    your computer instead of the GUI.
+2. TCP was first described by Vint Cerf and Bob Kahn in 'Specification of Internet Transmission 
+    Control Program' in 1974.
+3. A client is a computer that accesses a server to request access to a website. The server delivers
+    web pages back to the client. Request-reponse is how computers talk to each other over a network. 
+    For example, the client requests and the server responds.
+4. GitHub
